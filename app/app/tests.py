@@ -1,7 +1,7 @@
 from django.test import TestCase
 from app.calc import add
 
-class CaclcTests(TestCase):
+class CalcTests(TestCase):
 
     '''The test functions must begin with test.'''
     def test_add_numbers(self):
